@@ -4,8 +4,8 @@
 <gov2button button-label=""></gov2button>
 ```
 ## Property
-- buttonLabel: **type: String** // fungsinya untuk memberi label button
-- buttonSize: **type: String** // fungsinya untuk memberi ukuran 
+- buttonLabel: **type: String** //fungsinya untuk memberi label button
+- buttonSize: **type: String** //fungsinya untuk memberi ukuran 
 ## Data
  - isPressed: false
  ## Methods
