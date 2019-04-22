@@ -9,7 +9,7 @@
 ## Data
  - isPressed: false
  ## Methods
- - toggleClick // fungsinya mengubah nilai var isPresed ke nilai selain yang sedang terkandung
- - resetButton // fungsinya mengubah nilai var isPresed ke false
+ - toggleClick //fungsinya mengubah nilai var isPresed ke nilai selain yang sedang terkandung
+ - resetButton //fungsinya mengubah nilai var isPresed ke false
  ## Created
- - resetButton // listen event dengan value resetButton, jika ada eksekusi method resetButton di atas
+ - resetButton //listen event dengan value resetButton, jika ada eksekusi method resetButton di atas
